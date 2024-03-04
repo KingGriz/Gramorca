@@ -13,7 +13,6 @@
     <div class="max-w-[364px] bg-white rounded-md shadow-md mx-auto px-9 py-9 mb-16">
       <div class="flex flex-col">
         <!-- header login -->
-        <img src="/assets/real logo.jpg" alt="">
         <span class="mt-2 text-3xl font-itali mx-auto">Sign In</span>
         <!-- end -->
         <!-- input login -->

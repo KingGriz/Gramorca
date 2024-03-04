@@ -2,7 +2,6 @@
     class="fixed top-0 left-0 z-40 w-64 h-screen bg-gray-800 transition-transform -translate-x-full sm:translate-x-0"
     aria-label="Sidebar">
     <div class="h-full px-5 py-10 overflow-y-auto bg-gray-500 border">
-    <img src="/assets/page.png" alt="" class="w-30">
         </a>
         <div class="container h-8"></div>
         <ul class="space-y-2 font-medium ">
